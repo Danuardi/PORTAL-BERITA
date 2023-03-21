@@ -1,0 +1,71 @@
+"MC Project" atau "My Coding Project" adalah industri teknologi milik 401XD Group, yang berfokus pada perancangan, produksi & pendistribusian software aplikasi berbasis desktop & mobile.
+
+Hadir sejak tahun 2015 dengan nama "ProjectProgram". Sempat berhenti beroperasi di tahun 2018. Saat ini kami kembali dengan nama "My Coding Project" atau sering disebut "MC Project" yang mulai beroperasi pada awal 2020.
+
+Pekerjaan kami berhubungan dengan penemuan & inovasi teknologi sistem informasi, dimana proses tersebut membawa ide dari hipotesis menjadi produk yang dapat digunakan atau dikembangkan.
+
+Kami bekerjasama dengan para software engineer dan programmer di bidang machine learning, natural language processing, expert system & robotics digital automation tools.
+
+Berikut project pemrograman yang kami produksi, distribusi dan kembangkan:
+
+1. Pengembangan sistem
+▪ Aplikasi SIMRS Sistem Informasi Rumah Sakit KHANZA
+▪ Aplikasi SIMRS Sistem Informasi Rumah Sakit GARUDA
+▪ Aplikasi Point of Sales dengan Codeigniter
+▪ Web AGC MP3 Youtube + API Auto Update
+▪ Web All In One Video Downloader & Converter
+▪ Web All In One Social Media Downloader & Converter
+
+2. Pengembangan toko online
+▪ Marketplace Fiverrscript for Programmer and Freelance
+▪ E-Commerce Distributor & Server Pulsa (Sistem Reseller H2H) + API
+▪ E-Commerce Distributor & Server PPOB (Sistem Reseller PPOB) + API
+▪ E-Commerce Server Social Media Marketing (Pusat DB SMM Panel) + API
+▪ Marketplace Multi Seller & Buyer + Reseller Sistem API Rajaongkir
+▪ Marketplace Sistem API Rajaongkir POS JNE TIKI. Codeigniter dan Mysql
+▪ Web Panel Reseller Pulsa (Sistem Member + Agen Pulsa) + API
+▪ Web Panel Reseller PPOB (Sistem Member + Agen PPOB) + API
+▪ Web Panel Social Media Marketing (SMM Panel) + API
+▪ Web Sistem E-Cource Ruang Coding (terinspirasi dari Ruang Guru)
+
+3. Pengembangan web portal
+▪ Web Sistem Informasi Pemerintah, Perusahaan, Portal Desa & Instansi
+▪ All CMS Swarakalibata, Sistem Akademik Kampus & Sekolah
+▪ CMS Swarakalibata Codeigniter AdminLTE Responsive Template
+▪ OpenSID Website Sistem Informasi Desa
+
+4. Pembangunan sistem
+▪ Aplikasi Pengolahan Data Siswa Magang SMKN 5 Sungai Penuh, Jambi
+▪ Aplikasi Akademik, Perpustakaan, Pendaftaran MHS Baru & SMS Gateway
+▪ 401XD SEO Tool Auto Trafik Generator for Alexa Rank
+▪ Aplikasi System Management Asset Universitas Malaysia Pahang
+▪ Aplikasi IMB Pengolahan Data Izin Mendirikan Bangunan VB NET
+▪ Aplikasi SIMRS Sistem Informasi Rumah Sakit H. Bakri. Codeigniter
+▪ Tool URL Shortener Metode Cryptography Simple URL Converter
+
+5. Pengembangan artificial intelligence
+▪ Website Sistem Pakar Diagnosa Penyakit, Forward Chaining & Certainty Factor
+▪ Website Sistem Pakar Perbaikan Komputer, Backward Chaining & Certainty Factor
+▪ Website Sistem Pakar Diagnosa Penyakit Metode Backward Chaining 
+▪ Website Sistem Pakar Identitikasi Penyakit Metode Forward Chaining 
+▪ Website Sistem Pakar Identifikasi Gejala Penyakit Metode Backward Chaining 
+▪ Website Sistem Pakar Hukuman Narkotika berdasarkan Pasal, Certainty Factor 
+▪ Website Sistem Pakar Pendeteksi Penyakit Metode Naive Bayes
+▪ Website Sistem Pakar Klasifikasi & Identifikasi Penyakit Metode Teorema Bayes
+
+6. Pengembangan cryptography
+▪ Aplikasi Web Sistem Proteksi Komunikasi Metode Caesar Chiper
+▪ Aplikasi Web Sistem Proteksi Informasi Metode Encrypt Decrypt
+▪ Aplikasi Web Sistem Criptographi Metode Hill Chiper
+
+7. Pengembangan algoritma simulasi
+▪ Aplikasi Web Sistem Simulasi Antrian Metode Monte Carlo
+▪ Aplikasi Web Sistem Prediksi Penjualan Metode Monte Carlo
+
+Dikembangkan dengan lisensi GPL General Public License oleh
+▪ OrcID: https://bit.ly/AdiGunawanOrcid
+▪ ResearchGate: https://bit.ly/AdiGunawanResearchgate
+▪ GoogleScholar: https://bit.ly/AdiGunawanScholar
+▪ GoogleAwards : bit.ly/AdiGunawanGoogleAwards
+▪ MicrosoftAwards : https://bit.ly/MicrosoftAwards
+▪ YandexAwards : https://bit.ly/AdiGunawanYandexAwards

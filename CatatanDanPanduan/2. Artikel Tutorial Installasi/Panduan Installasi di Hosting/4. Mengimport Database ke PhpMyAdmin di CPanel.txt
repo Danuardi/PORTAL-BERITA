@@ -1,0 +1,8 @@
+Mengimport Database ke PhpMyAdmin di CPanel:
+
+1. Buka Cpanel => Buka PhpMyAdmin
+2. Klik pada nama database yang telah dibuat
+3. Klik Import => Choosee File
+4. Pilih file database .sql yang terdapat pada folder DATABASE di file script yang kami berikan.
+5. Klik Go. Selengkapnya lihat video Import dan Export Database di phpMyAdmin pada folder Video.
+6. Setelah database di import. Koneksi / hubungkan Database PhpMyAdmin dengan Web, seperti panduan berikutnya.

@@ -1,0 +1,10 @@
+Panduan Lengkap Instalasi (Pilih sesuai kebutuhan)
+
+1. Localhost (Web Php native & Codeigniter 1/2/3)
+https://bit.ly/32GVPAu​
+
+2. Hosting (Web Php native & Codeigniter 1/2/3)
+https://bit.ly/2UiLGoS
+
+3. Localhost & Hosting (khusus Web Codeigniter 4)
+https://bit.ly/2Mtwu8j

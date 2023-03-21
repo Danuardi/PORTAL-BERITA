@@ -1,0 +1,36 @@
+1. Install xampp https://bit.ly/3hoYC6H
+2. Jalankan & start apache + mysql
+3. Copy dan ekstrak file script di folder xampp/htdocs
+4. Buat database di PhpMyAdmin : localhost/phpmyadmin
+Contoh: dbwebsite1
+5. Buka folder script yang telah di ekstrak di xampp/htdocs
+Ctt: Setiap source code memiliki catatan khusus. Cek di folder: DATABASE
+
+(OPSI1) Jika web menggunakan framework CI :
+6. Buka folder application ATAU app => config
+7. Buka file database.php
+8. Ganti nama database, samakan dengan nama database baru pada langkah 4:
+Contoh: dbwebsite1
+'hostname' => 'localhost',
+'username' => 'root',
+'password' => '',
+'database' => 'wbinstansiv1',
+
+(OPSI2) Jika web menggunakan PHP Native & Lainnya :
+6. Buka folder / file koneksi ke database
+7. Buka file koneksi.php / fuctions.php / config.php
+8. Ganti nama database, samakan dengan nama database baru pada langkah 4:
+Contoh: dbwebsite1
+$config["server"]='localhost';
+$config["username"]='root';
+$config["password"]='';
+$config["database_name"]='dbwebsite1';
+
+
+9. Import database web ke phpmyadmin, lihat video Import dan Export Database di phpMyAdmin pada folder : Video Tutorial
+
+10. Setelah database di import. Web siap dijalankan di localhost dengan alamat : localhost/NAMAFOLDER
+
+NOTE: Jika web framework CI versi 4, cara menjalankan nya berbeda. Silahkan ikuti panduan disini https://www.youtube.com/watch?v=WimdT2J-ckw (khusus web dengan FRAMEWORK CI 4)
+
+11. Selesai.

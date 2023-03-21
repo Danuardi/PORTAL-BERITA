@@ -1,0 +1,3 @@
+Ini diperlukan jika versi php Anda tidak sesuai dengan versi php yang digunakan di source code.
+
+Versi php Anda tidak sesuai biasanya menampilkan pesan ERROR di program.

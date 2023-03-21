@@ -1,0 +1,7 @@
+Panduan kami bersifat umum, karna terdapat 2 opsi installasi, yaitu di Localhost dan di Hosting.
+
+Tidak semua produk kami bekerja dengan baik sesuai yang semestinya jika di install di LOCALHOST.
+
+Contohnya produk WEB JUALAN PULSA ONLINE & PPOB, yang tidak semua sistem dan fitur nya bisa bekerja dengan baik jika di LOCALHOST.
+
+Kami menyiapkan panduan installasi di Localhost karna beberapa produk bisa digunakan di localhost. Seperti APLIKASI SISTEM RUMAH SAKIT, APLIKASI SISTEM PAKAR, dll yang bersifat OFFLINE ACCESS.

@@ -1,0 +1,16 @@
+1. Pertama kali Login admin jalankan di browser url:
+http://domainanda.com/administrator/upgrade
+Jika di localhost: http://localhost/administrator/upgrade
+(Cukup Eksekusi 1 kali saja)
+
+2. Jika menu di halaman administrator blank atau tidak tampil, itu masalah di koneksi ke source javascript. Karna javascript menu ditempatkan online. Jika menjalankan di localhost, komputer harus terhubung ke internet.
+
+3. Jika Setelah Login administrator Redirect ke home (khusus penggunaan di localhost):
+- Silahkan buka file "XAMPP/php/php.ini" dan cari :
+session.auto_start=0
+Ubah menjadi :
+session.auto_start=1 
+Terakhir restart lagi XAMPP-nya (apache dan mysql)
+
+4. Jika security code seperti font tidak terload (khusus penggunaan di hosting/online)
+Ubah 'font_path' => 'asset/Tahoma.ttf' menjadi -->> 'font_path' => base_url().'asset/Tahoma.ttf'

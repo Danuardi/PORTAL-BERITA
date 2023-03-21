@@ -1,0 +1,15 @@
+Membuat Database di CPanel:
+
+1. Buka Cpanel => Buka MySQL® Databases
+2. Pada bagian Create New Database => Buat nama database => Klik Create Database
+3. Setelah berhasil, Klik Go Back
+4. Scroll kebawah pada MySQL Users => Add New User :
+5. Masukkan username & password untuk user baru di hosting Anda. (jangan sampai lupa)
+6. Klik Create User.
+7. Setelah berhasil, Klik Go Back
+8. Scroll kebawah, pada Add User To Database:
+User : Pilih nama user yang baru dibuat pada poin 4
+Database: Pilih nama database yang baru di buat pada poin 2
+Ctt: User baru yang dibuat tadi adalah admin dari database.
+9. Lalu klik Add
+10. Pada Manage User Privileges => Centang Semua (agar bisa memanajeman data)

@@ -1,0 +1,42 @@
+Koneksi Database PhpMyAdmin dengan Web:
+
+1. Buka Cpanel => Buka File Manager => public_html
+
+(OPSI1) Jika web menggunakan framework CI :
+2. Buka folder application ATAU app => config
+3. Edit file database.php
+4. Ganti nama database, user, dan password.
+5. Samakan dengan yang dibuat pada hosting cpanel.
+Contoh: nama database: host_dbwebsite1, user: user_dbwebsite1, dan password: pas_dbwebsite1. Maka:
+'hostname' => 'localhost',
+'username' => 'user_dbwebsite1',
+'password' => 'pas_dbwebsite1',
+'database' => 'host_dbwebsite1',
+
+(OPSI2) Jika web menggunakan PHP Native :
+2. Buka/Cari folder atau file koneksi database
+3. Buka file koneksi.php / fuctions.php / config.php / lainnya (salah satu)
+4. Ganti nama database, user, dan password.
+5. Samakan dengan yang dibuat pada hosting cpanel.
+Contoh: nama database: host_dbwebsite1, user: user_dbwebsite1, dan password: pas_dbwebsite1. Maka:
+$config["server"]='localhost';
+$config["username"]='user_dbwebsite1';
+$config["password"]='pas_dbwebsite1';
+$config["database_name"]='host_dbwebsite1';
+
+6. Save dan Klik Go Back di File Manager.
+
+7. Web siap digunakan secara online dengan mengunjungi url domain.
+
+8. Jika muncul error pada koneksi database:
+- Cek ulang nama database, user & password di cpanel
+- Pastikan benar-benar sesuai dengan file koneksi di script web
+
+Jika masih error silahkan hubungi kami:
+Email : 401xdssh@gmail.com
+Blog: https://www.mycoding.net
+Youtube : bit.ly/MyCodingXD
+Instagram : instagram.com/MyCodingXD
+Twitter : twitter.com/MyCodingXD
+Pinterest : pinterest.com/MyCodingXD
+Facebook : facebook.com/MyCodingXD

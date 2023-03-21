@@ -1,0 +1,14 @@
+Agar tidak bingung :
+1. Fokus dulu ke panduan:
+- Instal di localhost, atau
+- Instal di web hosting
+
+2. Lebih suka panduan dalam video atau teks?
+- Artikel tutorial instalasi
+- Video tutorial instalasi
+
+3. Folder lainnya akan kamu pahami seiring mengikuti panduan
+
+4. Ikuti panduan installasi mulai poin 0 sampai selesai
+
+Catatan: panduan diberikan untuk pemula yang belum paham mengenai aplikasi ini, baik itu sistem nya, cara installasi, pengelolaan, dan keamanan.

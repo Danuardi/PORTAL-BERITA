@@ -1,0 +1,7 @@
+Kami yakin anda memiliki banyak ide untuk mengembangkan kembali sistem ini.
+
+1. Sublime Text bisa digunakan untuk melakukan editing pada source code, sangat mudah digunakan dan ringan di berbagai perangkat PC.
+
+2. FileZilla bisa digunakan untuk mempermudah upload file source code ke file manager web hosting.
+
+3. Composer digunakan untuk menjalankan web yg menggunakan framework codeigniter 4.

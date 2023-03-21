@@ -1,0 +1,11 @@
+PANDUAN SETUP & INSTALASI
+1. Installasi di Localhost: https://bit.ly/32GVPAu
+2. Installasi di Hosting: https://bit.ly/2UiLGoS
+
+ADMIN LOGIN: localhost/NAMAFOLDER/administrator
+user: admin
+pas: admin
+
+KONTRIBUTOR LOGIN: localhost/NAMAFOLDER/login
+user: arsen
+pas: arsen

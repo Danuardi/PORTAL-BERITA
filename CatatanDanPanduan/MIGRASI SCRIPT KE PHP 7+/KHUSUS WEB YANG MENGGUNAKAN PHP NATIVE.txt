@@ -1,0 +1,24 @@
+KHUSUS WEB YANG MENGGUNAKAN PHP NATIVE
+
+1) Letakkan file parser-php-version.php ke dalam FOLDER UTAMA.
+Contoh: htdocs/FOLDER UTAMA/parser-php-version.php
+
+2) Copy code di file CALL.txt ke file koneksi database.
+Contoh:
+
+<?php
+//CODE DI FILE CALL.TXT
+
+//KONEKSI DATABASE:
+$my['host'] = "localhost";
+$my['user'] = "root";
+$my['pass'] = "";
+$my['dbs'] = "namadatabase";
+$koneksi = mysql_connect($my['host'], $my['user'], $my['pass']);
+if (! @$koneksi) {
+ echo "Gagal koneksi ..!";
+ mysql_error();
+}
+mysql_select_db(@$my['dbs'])
+ or die ("Database tidak ditemukan".mysql_error());
+?>

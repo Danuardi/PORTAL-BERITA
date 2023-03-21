@@ -1,0 +1,16 @@
+Memulai Pengelolaan dan Keamanan Sistem:
+1. Di sisi server dan hosting, jika anda ingin melakukan pengembangan dan modifikasi, sebaiknya gunakan tool FileZilla sebagai penghubung ke file manager. Temukan FileZilla di folder Tool Pendukung.
+
+2. Aktivasi SSL Lets Encrypt yang bisa Anda gunakan secara gratis, temukan di cpanel hosting.
+
+3. Hubungkan web Anda dengan cloudflare agar kecepatan dan loading situs menjadi lebih cepat karna menggunakan Content Delivery Network. Cloudflare bisa digunakan secara gratis.
+
+4. Last!!! Backup website secara berkala
+- Lakukan backup website Anda yang telah online.
+- Bertujuan untuk keamanan jika tanpa sengaja ada coding yang anda ubah atau kesalahan edit, dan lainnya
+- Buka CPanel => Klik Backup
+- Lakukan Full Backup => Klik Download A Full Account Backup
+
+BEST REGARDS!!! SALAM HORMAT KAMI
+MYCODING.NET
+YOUTUBE: MC PROJECT
